@@ -1,0 +1,4 @@
+scripts:
+  output: datan_theme/datan_theme.js
+  contents:
+    - datan_theme.js

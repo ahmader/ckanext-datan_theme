@@ -1,0 +1,54 @@
+
+body, .site-footer, .masthead, .homepage .module-search .module-content {
+    background: #f7f7f7 !important;
+}
+.account-masthead, .homepage .module-search .tags {
+  background-color: rgb(221 221 221) !important
+}
+
+.account-masthead .account ul li a:hover {
+  background-color: #f7f7f7 !important;
+}
+
+.masthead a, .site-footer, .site-footer label, .site-footer small, .homepage .module-search {
+  color:#aa9100 !important;
+}
+
+.masthead .nav > li > a, .masthead .nav > li > a:focus, .masthead .nav > li > a:hover, .masthead .nav > .active > a, .masthead .nav > .active > a:hover, .masthead .nav > .active > a:focus {
+  color: rgba(0,0,0,.5) !important;
+}
+
+.masthead .navigation .nav-pills li a:hover, .masthead .navigation .nav-pills li a:focus, .masthead .navigation .nav-pills li.active a {
+  background-color: rgb(221 221 221) !important;
+  color:#aa9100 !important;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  color:#aa9100 !important;
+}
+.group-list .module-heading h3 a {
+  color:#aa9100 !important;
+}
+
+.account-masthead .account ul li a {
+  color:#aa9100 !important;
+}
+
+.account-masthead .account .notifications a span.badge {
+  background-color:#aa9100 !important;
+}
+
+.account-masthead .account ul li {
+  border-left: 1px solid #aa9100 !important;
+}
+
+
+@media (min-width: 768px) {
+
+  .homepage .hero {
+    background-image:url("/dadan.jpg");
+    background-position: center;
+    background-size: auto 100%;
+    
+  }
+}

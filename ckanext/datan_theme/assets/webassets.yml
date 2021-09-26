@@ -1,0 +1,14 @@
+# datan_theme-js:
+#   filter: rjsmin
+#   output: ckanext-datan_theme/%(version)s-datan_theme.js
+#   contents:
+#     - js/datan_theme.js
+#   extra:
+#     preload:
+#       - base/main
+
+# datan_theme-css:
+#   filter: cssrewrite
+#   output: ckanext-datan_theme/%(version)s-datan_theme.css
+#   contents:
+#     - css/datan_theme.css
